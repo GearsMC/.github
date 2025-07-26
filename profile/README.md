@@ -5,6 +5,7 @@ Bu GitHub organizasyonu, **GearsMC Network** geliştirme ekibi için özel olara
 ## 📁 İçerik
 Bu depoda şu tür özel kaynaklar yer alabilir:
 - Özel geliştirilen Minecraft eklentileri (PocketMine-MP,Nukkit)
+- Özel geliştirilen Minecraft Kaynak Paketleri
 
 ## 🚫 Uyarı
 Bu organizasyon ve içeriği **GearsMC Network geliştirici ekibi dışında kimseyle paylaşılmamalıdır.**  
