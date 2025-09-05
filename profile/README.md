@@ -1,22 +1,5 @@
 # ⚙️ GearsMC Network
 
-## 🇹🇷 Türkçe
-Bu GitHub organizasyonu, **GearsMC Network** geliştirme ekibi için özel olarak oluşturulmuştur. İçerdiği tüm dosyalar yalnızca dahili kullanım içindir.
-
-### 📁 İçerik
-Bu depoda şu tür özel kaynaklar yer alabilir:
-- Özel geliştirilen Minecraft eklentileri (PocketMine-MP, Nukkit)  
-- Özel geliştirilen Minecraft Kaynak Paketleri  
-
-### 🚫 Uyarı
-Bu organizasyon ve içeriği **GearsMC Network geliştirici ekibi dışında kimseyle paylaşılmamalıdır.**  
-Kodların izinsiz kopyalanması, dağıtılması veya paylaşılması kesinlikle yasaktır.
-
-### 🔐 Erişim Politikası
-Bu organizasyona yalnızca yetkilendirilmiş geliştiriciler erişebilir. Yeni erişim talepleri için doğrudan yönetici ile iletişime geçin.
-
----
-
 ## 🇬🇧 English
 This GitHub organization was created exclusively for the **GearsMC Network** development team. All files included are for internal use only.
 
@@ -31,4 +14,21 @@ Unauthorized copying, distribution, or sharing of the code is strictly prohibite
 
 ### 🔐 Access Policy
 Only authorized developers may access this organization. For new access requests, please contact the administrator directly.
+
+---
+
+## 🇹🇷 Türkçe
+Bu GitHub organizasyonu, **GearsMC Network** geliştirme ekibi için özel olarak oluşturulmuştur. İçerdiği tüm dosyalar yalnızca dahili kullanım içindir.
+
+### 📁 İçerik
+Bu depoda şu tür özel kaynaklar yer alabilir:
+- Özel geliştirilen Minecraft eklentileri (PocketMine-MP, Nukkit)  
+- Özel geliştirilen Minecraft Kaynak Paketleri  
+
+### 🚫 Uyarı
+Bu organizasyon ve içeriği **GearsMC Network geliştirici ekibi dışında kimseyle paylaşılmamalıdır.**  
+Kodların izinsiz kopyalanması, dağıtılması veya paylaşılması kesinlikle yasaktır.
+
+### 🔐 Erişim Politikası
+Bu organizasyona yalnızca yetkilendirilmiş geliştiriciler erişebilir. Yeni erişim talepleri için doğrudan yönetici ile iletişime geçin.
 
